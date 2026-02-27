@@ -1,3 +1,2 @@
-git remote add origin https://github.com/Michiguns2024/annarbor-solar-installer.git
-git branch -M main
+git remote set-url origin git@github.com:Michiguns2024/annarbor-solar-installer.git
 git push -u origin main
